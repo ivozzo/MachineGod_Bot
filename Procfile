@@ -1,1 +1,1 @@
-worker: python Omnissiah_Main.py
+worker: python omnissiah.py
