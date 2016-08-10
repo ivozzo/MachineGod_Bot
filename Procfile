@@ -1,0 +1,1 @@
+worker: python Omnissiah_Main.py
