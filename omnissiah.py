@@ -7,7 +7,7 @@ import logging
 from telegram.ext import Updater
 
 #MachineGodBot - Telegram Bot designed for helping Warhammer 40.0000 players
-updater = Updater(token='212807604:AAEgRO6CkL9q5wnL25efsJmk_4v3an5ILI8')
+updater = Updater(token='apitoken')
 logger = logging.basicConfig(filename="DeusMechanicus.log", filemode="w", level= logging.INFO, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
 dispatcher = updater.dispatcher
